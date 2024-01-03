@@ -34,7 +34,7 @@
             "request": "launch",
             "port": 9003,
             "pathMappings": {
-                "/var/www/html": "${workspaceRoot}"
+                "/var/www/html": "${workspaceRoot}/Library"
             }
         }
     ]

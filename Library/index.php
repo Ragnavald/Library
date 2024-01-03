@@ -1,7 +1,6 @@
 
 <?php
 echo "ola";
-xdebug_info();
 ?>
 
 <!DOCTYPE html>
@@ -40,7 +39,7 @@ xdebug_info();
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               <li><a class="dropdown-item" href="receber.php">Receber Livro</a></li>
-              <li><a class="dropdown-item" href="emprestar.php">Efetuar Emprestimo</a></li>        
+              <li><a class="dropdown-item" href="emprestar.php">Efetuar Emprestimo</a></li>
       </ul>
       </li>
     </div>
